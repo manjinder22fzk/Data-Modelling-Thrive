@@ -1,0 +1,12 @@
+Data Quality Report
+====================
+Total Rows: 104
+Null IDs: 0
+Distinct Conversations: 10
+
+Top 5 Message Types:
+comment: 60
+open: 15
+close: 14
+assignment: 9
+conversation_rating_changed: 4

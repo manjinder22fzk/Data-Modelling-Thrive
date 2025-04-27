@@ -1,0 +1,7 @@
+2025-04-27 15:10:13,763 - INFO - Database connection established.
+2025-04-27 15:10:13,789 - INFO - consolidated_messages table created successfully.
+2025-04-27 15:10:13,811 - INFO - Data inserted into consolidated_messages successfully.
+2025-04-27 15:10:13,811 - INFO - Transaction committed successfully.
+2025-04-27 15:10:13,827 - INFO - Writing the data into csv file
+2025-04-27 15:10:13,827 - INFO - Generating Data Quality Reports
+2025-04-27 15:10:13,827 - INFO - Database connection closed.
